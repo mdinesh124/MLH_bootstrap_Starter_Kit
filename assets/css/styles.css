@@ -1,0 +1,10 @@
+/*This is where we will write our css!
+CSS is how we style our website,such as
+setting colors, changing width and height of things , and beyond!
+The project also includes bootstrap's css so we can use that without tying
+it in here! */
+
+/*This is some example css!. It adds a blank line under carousel*/
+.carousel{
+    margin-bottom:1 em;
+}
